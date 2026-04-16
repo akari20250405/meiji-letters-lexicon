@@ -48,7 +48,6 @@ Typical values of `event_type` include:
 * `place（地名）` — geographical locations
 * `term（用語）` — abstract terms, concepts, or expressions
 * `movement（動静）` — actions related to movement, travel, or changes in location
-
 These categories reflect the current data structure and may be refined in future versions.
 Note that these categories are heuristic and may be refined in future versions.
 
@@ -74,6 +73,17 @@ Note that these categories are heuristic and may be refined in future versions.
   Interpretation status (e.g., "confirmed", "tentative").
 
 Missing values are represented as `null`.
+
+---
+
+### Source Material
+
+All data in this dataset were created based on the following source:
+
+- *Shinagawa Yajiro Kankei Monjo 8* (尚友倶楽部品川弥二郎関係文書編纂委員会編『品川弥二郎関係文書8』山川出版社、2017年),  
+  ISBN: 978-4-634-51080-7
+
+The dataset does not include the original texts themselves, but only structured metadata extracted from them.
 
 ---
 
