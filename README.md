@@ -48,6 +48,7 @@ Typical values of `event_type` include:
 * `place（地名）` — geographical locations
 * `term（用語）` — abstract terms, concepts, or expressions
 * `movement（動静）` — actions related to movement, travel, or changes in location
+
 These categories reflect the current data structure and may be refined in future versions.
 Note that these categories are heuristic and may be refined in future versions.
 
