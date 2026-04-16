@@ -8,6 +8,11 @@ The dataset is designed to support the interpretation of historical documents an
 
 Each entry represents a context-dependent interpretation of expressions found in historical letters.
 
+This dataset can be used as:
+- A lexicon of historical euphemisms and their interpretations
+- Training data for classification tasks (event types, named entities)
+- A resource for semantic analysis of political language
+
 ---
 
 ## Data Structure
