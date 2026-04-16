@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: IKEDA
+  given-names: Sanae
+orcid: https://orcid.org/0009-0005-9627-0324
+title: meiji-letters-lexicon: Initial release of the dataset
+version: v1.0.2
+date-released: 2026-04-16
